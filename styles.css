@@ -1,0 +1,35 @@
+body {
+    background-color: purple;
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+   
+}
+
+h1 {
+    color: lavender;
+    font-family:cursive;
+}
+
+.friend {
+    background-color: plum;
+    color: purple;
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.friend {
+    padding: 10px;
+}
+
+p {
+    margin: auto;
+    padding: 2em;
+}
+
+
+ 
+
